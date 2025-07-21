@@ -1,0 +1,136 @@
+🔧 Common Types of Plumbing Services:
+🔹 Service Type	🔍 Description
+Tap Repair & Installation -->	Fixing leaking taps or installing new ones.
+Toilet Repair	--> Solving flush issues, blockages, or leaks.
+Drain Cleaning	--> Unblocking clogged kitchen or bathroom drains.
+Pipe Installation/Repair	-->  Fixing or laying water/gas pipes.
+Water Heater Service	--> Installing or repairing geysers/heaters.
+Bathroom Fitting --> 	Installing showers, faucets, mixers, and basins.
+Sump Tank / Water Tank Cleaning -->	Cleaning storage tanks manually or with machines.
+Kitchen Plumbing -->	Repairing sink pipes, garbage disposals, etc.
+Leak Detection --> 	Finding and fixing hidden leaks in walls or floors.
+
+
+
+[
+  "Tap Repair",
+  "Toilet Installation",
+  "Bathroom Fittings",
+  "Drain Cleaning",
+  "Water Heater Service",
+  "Kitchen Plumbing",
+  "Leak Detection",
+  "Tank Cleaning"
+]
+
+
+🏠 House Services
+House Cleaning
+Floor Mopping
+Sofa & Carpet Cleaning
+Kitchen Deep Cleaning
+Home Painting
+Pest Control
+Curtain & Mattress Cleaning
+Water Tank Cleaning
+House Shifting
+Appliance Repair (TV, Washing Machine, Refrigerator)
+Handyman Services (Nail, Drill, Curtain Rods)
+
+🧰 House Installations
+AC Installation
+Water Purifier Installation
+Appliance Setup (TV, Washing Machine)
+Curtain Rod Installation
+Wall Shelf Installation
+
+💅 Beauty Services
+Haircut (Men/Women)
+Hair Coloring & Styling
+Facial & Clean Up
+Manicure & Pedicure
+Waxing
+Threading
+Body Massage
+Mehendi (Henna) Application
+Grooming Packages (At Home)
+Bridal Makeup
+
+🔧 Mechanic Services
+Bike Repair & Service
+Car Repair & Maintenance
+Oil Change
+Battery Replacement
+Flat Tire Fix
+Brake Service
+Engine Diagnostics
+AC Servicing (Vehicles)
+Emergency Breakdown Service
+
+🔌 Electrician Services
+Light Fixture Repair
+Switchboard Repair
+Fan Repair
+Inverter Service
+Circuit Breaker Issues
+Socket Replacement
+Power Failure Fix
+Geyser Service
+Short Circuit Fix
+
+💡 Electrical Installations
+Fan Installation
+Light Installation (LED, Tube, Decorative)
+Switchboard Installation
+Inverter Installation
+Geyser Installation
+Doorbell Setup
+Power Backup Setup (UPS)
+CCTV Installation
+Decorative Lighting Setup
+
+🚿 Plumbing Services
+Tap Repair
+Pipe Leakage Fix
+Drain Unclogging
+Flush Repair
+Sink Plumbing
+Water Tank Cleaning
+Toilet Repair
+Bathroom Fittings Fix
+
+🚰 Plumbing Installations
+Tap Installation
+Toilet Installation
+Sink Installation
+Water Heater (Geyser) Installation
+Overhead Tank Setup
+Shower Installation
+Washing Machine Pipe Setup
+
+🛠️ General Services
+Carpenter Services (Furniture repair)
+Pest Control
+Movers & Packers
+Glass & Mirror Work
+Labour Hire (General)
+Welder Services
+Masonry / Civil Work
+Gardening Services
+Laptop/Desktop Repair
+
+🏗️ General Installations
+Furniture Assembly
+Mirror/Glass Installation
+CCTV and Security System Setup
+Interior Decor Fixtures
+Generator Setup
+Modular Kitchen Installation
+
+❄️ Cooling Services
+
+AC Repair
+AC Servicing
+AC Gas Refill
+AC Installation
+AC Uninstallation

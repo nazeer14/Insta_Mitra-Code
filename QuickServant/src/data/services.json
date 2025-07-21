@@ -1,0 +1,87 @@
+[
+  {
+    "category": "House",
+    "services": [
+      "AC Repair & Service",
+      "TV Wall Mounting",
+      "Carpentry",
+      "Pest Control",
+      "Home Deep Cleaning",
+      "Sofa Cleaning",
+      "Kitchen Cleaning",
+      "Water Purifier Installation",
+      "Curtain Rod Installation"
+    ]
+  },
+  {
+    "category": "Beauty",
+    "services": [
+      "Haircut",
+      "Facial",
+      "Manicure",
+      "Pedicure",
+      "Makeup",
+      "Body Spa",
+      "Threading",
+      "Waxing",
+      "Bridal Makeup"
+    ]
+  },
+  {
+    "category": "Mechanic",
+    "services": [
+      "Car Repair",
+      "Bike Servicing",
+      "Battery Replacement",
+      "Engine Diagnostics",
+      "Two Wheeler Pickup/Drop",
+      "Oil Change"
+    ]
+  },
+  {
+    "category": "Electrician",
+    "services": [
+      "Fan Installation",
+      "Switch Board Repair",
+      "Inverter Installation",
+      "AC Electrical Repair",
+      "Light Fitting",
+      "Wiring Repair",
+      "Geyser Repair"
+    ]
+  },
+  {
+    "category": "Plumbing",
+    "services": [
+      "Tap Repair",
+      "Water Tank Cleaning",
+      "Toilet Fitting",
+      "Sink Unclogging",
+      "Bathroom Fitting",
+      "Water Pipe Leakage",
+      "Shower Installation"
+    ]
+  },
+  {
+    "category": "General",
+    "services": [
+      "Courier Pickup",
+      "Document Printing",
+      "Moving & Packing",
+      "Furniture Assembly",
+      "Welder",
+      "Heavy Lifting",
+      "Labour Hire"
+    ]
+  },
+  {
+    "category": "Cooling",
+    "services": [
+      "AC Repair",
+      "AC Installation",
+      "AC Gas Refill",
+      "AC Servicing",
+      "AC Uninstallation"
+    ]
+  }
+]
