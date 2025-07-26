@@ -1,5 +1,8 @@
 export type RootStackParamList = {
+  OpenScreen: undefined;
+  Validation: { phoneNumber: string };
   Login:undefined;
+  MainTabs: undefined;
   Home: undefined;
   SignUp:undefined;
   Forgot:undefined;
@@ -19,4 +22,11 @@ export type RootStackParamList = {
   Settings: undefined;
   NotFound:any;
   // Add more routes as needed
+};
+
+export type BottomTabParamList = {
+  Home: undefined;
+  bookings: undefined;
+  chat: undefined;
+  account: undefined;
 };

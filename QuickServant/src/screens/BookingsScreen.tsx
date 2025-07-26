@@ -9,7 +9,7 @@ import {
   ActivityIndicator,
   Alert,
 } from 'react-native';
-import AsyncStorage from '@react-native-async-storage/async-storage';
+import * as SecureStore from 'expo-secure-store';
 import { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { RootStackParamList } from '~/navigations/types';
 import { BookingData, activeBookings } from '~/services/bookingsServices';
@@ -50,7 +50,7 @@ const BookingScreen = (props: Props) => {
       setFilteredList(filtered);
     } else {
       // Load fresh from API
-      const userStr = await AsyncStorage.getItem('USER');
+      const userStr = await SecureStore.getItemAsync('user');
       const user = userStr ? JSON.parse(userStr) : null;
       if (!user) throw new Error('User not logged in');
 
@@ -78,7 +78,7 @@ const BookingScreen = (props: Props) => {
   // WebSocket setup
   useEffect(() => {
     const initSocket = async () => {
-      const token = await AsyncStorage.getItem('accessToken');
+      const token = await ('accessToken');
       socket.current = io(SOCKET_URL, {
         transports: ['websocket'],
         auth: {

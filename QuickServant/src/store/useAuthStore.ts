@@ -5,23 +5,25 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import { PersistStorage } from 'zustand/middleware';
 
 interface AuthState {
-  token: string | null;
-  user: any | null;
+  accessToken: string | null;
+  refreshToken: string | null;
+  user: any | [];
   isAuthenticated: boolean;
-  setAuth: (token: string, user: any) => void;
+  setAuth: (accessToken: string, refreshToken: string,user: any) => void;
   logout: () => void;
 }
 
 export const useAuthStore = create<AuthState>()(
   persist(
     (set) => ({
-      token: null,
-      user: null,
+      accessToken: null,
+      refreshToken: null,
+      user: [],
       isAuthenticated: false,
-      setAuth: (token, user) =>
-        set({ token, user, isAuthenticated: true }),
+      setAuth: (accessToken,refreshToken, user) =>
+        set({ accessToken, refreshToken, user, isAuthenticated: true }),
       logout: () =>
-        set({ token: null, user: null, isAuthenticated: false }),
+        set({ accessToken: null,refreshToken:null, user: [], isAuthenticated: false }),
     }),
     {
       name: 'auth-storage',
